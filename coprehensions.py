@@ -176,9 +176,9 @@
 
 
 
-numbers = [10, 15, 20, 25, 30, 35, 40, 45]
-sqr={n*n  for n in numbers if n%5==0 and n%10!=0 }
-print(sqr)
+# numbers = [10, 15, 20, 25, 30, 35, 40, 45]
+# sqr={n*n  for n in numbers if n%5==0 and n%10!=0 }
+# print(sqr)
 
 
 
